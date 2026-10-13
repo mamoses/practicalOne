@@ -1,0 +1,79 @@
+.boxContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+#message {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.backgroundColor {
+    background-color: #d0efff;
+
+}
+.box {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+    color: #1c555a;
+}
+
+
+.nameContainer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#username {
+    width: 400px;
+    height: 25px;
+}
+
+
+.numberContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+#number {
+    width: 400px;
+    height: 25px;
+}
+
+.ticket {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+
+#submitButton {
+    background-color: #1c555a;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 250px;
+
+}
